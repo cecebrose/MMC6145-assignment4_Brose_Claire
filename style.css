@@ -1,0 +1,65 @@
+/*
+Theme Name: Domesticated
+Theme URI:
+Author: Claire Brose
+Author URI: https://clairebrosephotography.com
+Description: Catalog
+Version: 1.0.0
+License: GNU General Public License v2 or Later
+License URI: https://www.gnu.org/licenses/old-licenses/dpl-2.0.en.html
+Text Domain: domesticated
+*/
+
+
+h1{
+    font-family: 'Permanent Marker', cursive;;
+}
+.h2{
+    color:black;
+}
+
+.p{
+    color:black;
+    font-size: 3em;;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #000000;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  header a {
+    text-decoration: none;
+    color: black;
+  }
+
+  p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    
+  }
+  h3{
+    font-family: 'Permanent Marker', cursive;;
+    font-size: 3em;
+  }
+ 
+  .individual-post a {
+    text-decoration: none;
+    color: black;
+  }
